@@ -1,4 +1,4 @@
-Liang Zhang, Architecture expert of Technical Center, JD Technology(JD.com), [Apache ShardingSphere](https://github.com/apache/shardingsphere) PMC Chair, founder of [ElasticJob](https://github.com/apache/shardingsphere-elasticjob).
+Liang Zhang, [Apache ShardingSphere](https://github.com/apache/shardingsphere) PMC Chair, founder of [ElasticJob](https://github.com/apache/shardingsphere-elasticjob).
 
 Passionate to open source, and advocate clean code.
 
