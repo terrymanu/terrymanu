@@ -1,5 +1,4 @@
 Liang Zhang, [Apache ShardingSphere](https://github.com/apache/shardingsphere) PMC Chair, founder of [ElasticJob](https://github.com/apache/shardingsphere-elasticjob).
-
 Passionate to open source, and advocate clean code.
 
 Focuses on building distributed database ecosystem Apache ShardingSphere as the first-rate data solution in the finance industry. 
