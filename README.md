@@ -10,4 +10,4 @@ Has published a book named <[Future Architecture: from SOA to Cloud Native](http
 目前主要精力投入在将 Apache ShardingSphere 打造为业界一流的金融级分布式数据库解决方案之上。
 曾出版书籍《[未来架构——从服务化到云原生](https://baike.baidu.com/item/%E6%9C%AA%E6%9D%A5%E6%9E%B6%E6%9E%84%EF%BC%9A%E4%BB%8E%E6%9C%8D%E5%8A%A1%E5%8C%96%E5%88%B0%E4%BA%91%E5%8E%9F%E7%94%9F/23376862)》。
 
-![LiangZhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=terrymanu&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=buefy)
+![LiangZhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=terrymanu&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=buefy)
